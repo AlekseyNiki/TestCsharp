@@ -1,4 +1,5 @@
-﻿void PrintArrayMethod(string[] array, int filtrElementsCount)
+﻿/*
+void PrintArrayMethod(string[] array, int filtrElementsCount)
 {
     int counterFiltr = 0;
 
@@ -41,3 +42,4 @@ string[] array3 = { "Russia", "Denmark", "Kazan" };
 PrintArrayMethod(array1,filtrElements);
 PrintArrayMethod(array2,filtrElements);
 PrintArrayMethod(array3,filtrElements);
+*/
